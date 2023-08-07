@@ -7,7 +7,7 @@ import { AiFillInstagram } from 'react-icons/ai'
 
 const Header = () => (
   <header className='home-header'>
-    <h2>Welcome 🙋‍♂️</h2>
+    {/* <h2>Welcome 🙋‍♂️</h2> */}
     <h1>
       <span>“</span> TWR - The Weeky Roundup <span>”</span>
     </h1>
