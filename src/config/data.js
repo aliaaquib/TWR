@@ -131,19 +131,5 @@ export const blogList = [
         '/assets/images/blog6.png',
         redirectionUrl:"https://www.linkedin.com/pulse/web3-introduction-decentralized-future-internet-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
     },
-  {
-      id: 11,
-      title: 'Abdul Dilshad',
-      category: 'Web3',
-      subCategory: ['language', 'decentralized', 'programming'],
-      description:
-        "Discover the decentralized world of web3 and how it revolutionizes online interactions. Explore blockchain, cryptocurrencies, and smart contracts in this informative article and join The VerSiton community for support and resources.",
-      authorName: 'Aaquib Ali',
-      authorAvatar: '/assets/images/author.jpg',
-      createdAt: 'May 06, 2023',
-      cover:
-        '/assets/images/blog6.png',
-        redirectionUrl:"https://www.linkedin.com/pulse/web3-introduction-decentralized-future-internet-aaquib-ali?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
-    },
   ];
   
